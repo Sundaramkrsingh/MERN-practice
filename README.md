@@ -1,1 +1,1 @@
-I made these by studying REACT from it's docs
+I made these while studying REACT from it's docs
