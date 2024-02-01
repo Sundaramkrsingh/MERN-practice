@@ -1,1 +1,3 @@
-I made these while studying REACT from it's docs
+## MERN PRACTICE
+
+# This repository contains all my practiced projects for different stacks 
